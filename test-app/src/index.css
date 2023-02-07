@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+.app {
+  text-align: center;
+  max-width: 80%;
+  margin: 0 auto;
+  font-family: Muli;
+}
